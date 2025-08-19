@@ -1,5 +1,5 @@
 <h2> Hey there! I'm Ammar <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25"> </h2>
-<img align="right" alt="Coding GIF" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/gifs/developer.gif" width="480"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
