@@ -25,8 +25,8 @@
 ---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ammaradil&show_icons=true&count_private=true&hide_border=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammaradil&layout=compact&hide_border=true&text_color=daf7dc&bg_color=151515" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=AmmarAtNITJSR&show_icons=true&count_private=true&hide_border=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmmarAtNITJSR&layout=compact&hide_border=true&text_color=daf7dc&bg_color=151515" height="180" />
 </p>
 
 ---
@@ -34,9 +34,9 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-&nbsp; <a href="https://www.linkedin.com/in/ammar-adil" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:ammaradil26@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-&nbsp; <a href="https://github.com/ammaradil" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/github.png" width="50" /></a>
+&nbsp; <a href="https://www.linkedin.com/in/ammaradil05" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:ammaradil.52286.11d@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="https://github.com/AmmarAtNITJSR" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/github.png" width="50" /></a>
 </p>
 
-⭐️ From [Ammar](https://github.com/ammaradil)
+⭐️ From [Ammar](https://github.com/AmmarAtNITJSR)
