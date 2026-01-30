@@ -15,12 +15,12 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | JavaScript | C++ | Java  
+- 💻 &nbsp; Python | JavaScript | C++ | C 
 - 🌐 &nbsp; React.js | Node.js | Express.js | HTML | CSS | Tailwind  
-- 🛢 &nbsp; MongoDB | PostgreSQL | Redis | Firebase  
+- 🛢 &nbsp; MongoDB | MySQL 
 - 🔧 &nbsp; Git | GitHub | VS Code | Postman | Docker  
-- 🤖 &nbsp; AI/ML | OpenCV | TensorFlow | Scikit-Learn  
-- 🖥 &nbsp; UI/UX Tools | Canva | Figma  
+- 🤖 &nbsp; AI/ML | OpenCV | TensorFlow | Scikit-Learn | Mediapipe | Random - Forest 
+- 🖥 &nbsp; UI/UX Tools | Canva 
 
 ---
 
